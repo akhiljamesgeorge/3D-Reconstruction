@@ -1,0 +1,1 @@
+A gif file to demonstrate the output of 3D reconstruction is stored here.
