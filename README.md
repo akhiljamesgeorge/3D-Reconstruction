@@ -2,6 +2,8 @@
 Use Python in Google Colab to generate 3D reconstruction of objects.<br />
 Meshroom software package from AliceVision is used with python to perform 3D reconstruction.
 
+![3D Reconstruction - Demo](demo/3D_Reconstruction_AJ.gif)
+
 ## Prerequisites
 You need a Google Colab account
 
